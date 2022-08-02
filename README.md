@@ -3,6 +3,9 @@
 Bidding Assessment
 Preetham John
 
+
+I have not used any model but instead i have set rules and tested it against the rules rather than working with the model.
+
 The code is completely written in ipynb (pyhton Notebooks).
 Before running the 11th cell we must run the 26th cell cause df_accepetd is defined in that cell.
 
